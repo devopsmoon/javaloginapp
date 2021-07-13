@@ -69,8 +69,8 @@
 	</build>
 <repositories>
     <repository>
-      <id>javalogin-release</id>
-      <url>http://13.233.167.240:8081/repository/javalogin-release/</url>
+      <id>javalogin-releases</id>
+      <url>http://35.154.253.65:8081/repository/javalogin-releases/</url>
     </repository>
   </repositories>
 </project>
