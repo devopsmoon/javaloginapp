@@ -11,7 +11,7 @@
       <password>admin123</password>
     </server>
     <server>
-      <id>javalogin-release</id>
+      <id>javalogin-releases</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
@@ -31,7 +31,7 @@
     <mirror>
       <id>maven-central-repo</id>
       <name>maven-central-repo</name>
-      <url>http://13.233.167.240:8081/repository/maven-central-repo/</url>
+      <url>http://35.154.253.65:8081/repository/maven-central-repo/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
